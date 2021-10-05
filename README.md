@@ -2,7 +2,7 @@
 - 👀 I’m interested in healthcare and programming
 - 🌱 I’m currently learning Computer Engineering Technology - Computing Science @ Algonquin
 - 💞️ I’m looking to collaborate on basic programmings
-- 📫 How to reach me shoot me a DM
+- 📫 How to reach me 
 
 <!---
 PineappleConure/PineappleConure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
