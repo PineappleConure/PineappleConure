@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @PineappleConure
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Computer Engineering Technology - Computing Science @ Algonquin
-- 💞️ I’m looking to collaborate on basic programmings
-- 📫 How to reach me 
+- 👋 Hi, I’m @Orange_Kitty
+- 👀 I’m interested in software development and AI
+- 🌱 I’m currently a Comp Sci student at Carleton University 
+
 
 <!---
 PineappleConure/PineappleConure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
